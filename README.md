@@ -41,13 +41,13 @@ Discussed programming languages like python, websites and more.
 ## How to run program
 
 
-
+Go to your App Store and download Dripple! From there the app will walk you through step by step. 
 
 
 ## Additional information
 
 
-
+I am currently working on a new project showcasing my skills in data cleaning and python using jupiter notebook. 
 
 
 
